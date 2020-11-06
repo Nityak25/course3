@@ -4,8 +4,6 @@
 1.N.Badari Narayana - 18pa1a04a3<br/>
 2.K.Nitya Sujana - 18pa1a1225
 
-## REPL Link :
-
 ## YouTube Video link which describes the functioning of our Bot :
 
 ## Main Theme of our project
