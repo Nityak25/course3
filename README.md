@@ -6,7 +6,7 @@
 
 ## REPL Link :
 
-## YouTube Video link which describes the functioning of our Web Page and our Bot :
+## YouTube Video link which describes the functioning of our Bot :
 
 ## Main Theme of our project
 Getting the online courses which are in the vedic platform with the recording sessions. Vedic bot gives the user's required information by chatting with the user. This bot makes the user's work trouble-free. 
@@ -43,6 +43,6 @@ Getting the online courses which are in the vedic platform with the recording se
 
 
 ## Installations:
--> Python from https://www.python.org/downloads/
+-> Python from https://www.python.org/downloads/ <br/>
 -> Git from https://git-scm.com/downloads
 
