@@ -43,4 +43,6 @@ Getting the online courses which are in the vedic platform with the recording se
 ## Installations:
 -> Python from https://www.python.org/downloads/ <br/>
 -> Git from https://git-scm.com/downloads
+## Ref links:
+-> Heroku https://stackabuse.com/deploying-a-flask-application-to-heroku/
 
