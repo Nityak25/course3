@@ -2,9 +2,13 @@
 
 ## Team members:
 1.N.Badari Narayana - 18pa1a04a3<br/>
-2.K.Nitya Sujana - 18pa1a1225
+2.K.Nitya Sujana - 18pa1a1225 
+
+## Heroku Link :
+https://vedicdemo.herokuapp.com/
 
 ## YouTube Video link which describes the functioning of our Bot :
+
 
 ## Main Theme of our project
 Getting the online courses which are in the vedic platform with the recording sessions. Vedic bot gives the user's required information by chatting with the user. This bot makes the user's work trouble-free. 
