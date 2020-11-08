@@ -43,6 +43,8 @@ Getting the online courses which are in the vedic platform with the recording se
 * the takeinput() function will process the given input and gives the answer for the users request
 
 ## Picture of the bot:
+![screencapture-vedicdemo-herokuapp-2020-11-08-21_42_28](https://user-images.githubusercontent.com/72606000/98470414-6cc88f80-220b-11eb-9d6f-b40f731e795f.png)
+
 
 
 ## Installations:
